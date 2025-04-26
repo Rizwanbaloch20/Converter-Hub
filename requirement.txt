@@ -1,0 +1,7 @@
+streamlit
+pillow
+PyPDF2
+pdf2image
+pytesseract
+pydub
+moviepy
